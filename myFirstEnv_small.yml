@@ -1,0 +1,10 @@
+name: myFirstEnv
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - seaborn
+  - matplotlib
+  - pandas
+prefix: /opt/anaconda3/envs/myFirstEnv
